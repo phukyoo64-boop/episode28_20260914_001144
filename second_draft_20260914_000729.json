@@ -1,0 +1,130 @@
+{
+  "timestamp": "20260914_000729",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "Ascending to the Utopia",
+      "reasoning": "The 'I' in the source is an unnamed narrator. The chunk involves Jack and Laura, and references the setting of a skyscraper workplace utopia, a cluttered hangar, and a mezzanine overlooking Sector 6. The dramatic conflict is between Jack's fear and Laura's frustration as they attempt to log into the hardware. The setting that fits is a vertical ascent towards a floating metropolis, with a contrasting scene in a cluttered hangar and an observation from a mezzanine.",
+      "scene": "Jack lies prone in the transit pod as it ascends vertically, his eyes wide with fear, against a backdrop of swirling clouds and distant thunderstorms. Sparks fly as Laura’s transit pod collides with sanitation drones in a cluttered hangar, her revealing silver suit glistening under the harsh lights. The mezzanine overlooking Sector 6 is tense, with the King and his torturer smirking as they observe Jack and Laura’s futile attempts to log in.",
+      "dialogue": [
+        {
+          "character": "Narrator",
+          "line": "Jack lies prone in the transit pod as it lifts him vertically into the stratosphere, his eyes wide with fear, against a backdrop of swirling clouds and distant thunderstorms.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Laura, dressed in a revealing silver suit, screams at management while her inbound transit-pod collides with sanitation drones, sparks flying around her, in a cluttered hangar filled with various pods and machinery.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Jack and Laura work at an absurdly ergonomic terminal, Jack struggling to interface with the hardware as Laura hurls insults at the system, her frustration evident in clenched fists and fiery expression.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "On a mezzanine overlooking Sector 6, the King stands with his torturer, both wearing smirks of sadistic glee, observing Jack and Laura's futile attempts to log in, the tension palpable.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "Laura, now stripped down to her underwear, performs an aggressive 'interface' routine on her console, sweat dripping as she curses the machine, while Jack watches from a corner, his face a mix of awe and dread.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 5,
+      "speakers": [
+        "Narrator"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260914_001144",
+    "source_draft_repo": "phukyoo64-boop/2nddraft20260914_000729",
+    "source_draft_json": "second_draft_20260914_000729.json",
+    "source_draft_sha": "810c00e71260d0f1867372fe1cb54f261c093f78",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Narrator": "Narrator"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Jack lies prone in the transit pod as it lifts him vertically into the stratosphere, his eyes wide with fear, against a backdrop of swirling clouds and distant thunderstorms.",
+        "file": "draft1_line001_Narrator.mp3",
+        "bytes": 66336
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Laura, dressed in a revealing silver suit, screams at management while her inbound transit-pod collides with sanitation drones, sparks flying around her, in a cluttered hangar filled with various pods and machinery.",
+        "file": "draft1_line002_Narrator.mp3",
+        "bytes": 90648
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Jack and Laura work at an absurdly ergonomic terminal, Jack struggling to interface with the hardware as Laura hurls insults at the system, her frustration evident in clenched fists and fiery expression.",
+        "file": "draft1_line003_Narrator.mp3",
+        "bytes": 99624
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "On a mezzanine overlooking Sector 6, the King stands with his torturer, both wearing smirks of sadistic glee, observing Jack and Laura's futile attempts to log in, the tension palpable.",
+        "file": "draft1_line004_Narrator.mp3",
+        "bytes": 80736
+      },
+      {
+        "draft": 1,
+        "n": 5,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "Laura, now stripped down to her underwear, performs an aggressive 'interface' routine on her console, sweat dripping as she curses the machine, while Jack watches from a corner, his face a mix of awe and dread.",
+        "file": "draft1_line005_Narrator.mp3",
+        "bytes": 86304
+      }
+    ]
+  }
+}
